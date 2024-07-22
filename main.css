@@ -1,0 +1,60 @@
+
+.fakebutton {
+	background-color: #aaaadd;
+	font-size: 12pt;
+	padding: 3px;
+}
+
+.header {
+    position: sticky;
+    top: 0px;
+    height: 10%;
+    width: 100%;
+    background-color: #ccccff;
+    z-index: 999;
+}
+
+
+.wrapper_main {
+    display: flex;
+    
+    width: 90%;
+    min-width: 80%;
+    
+    height: auto;
+    
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+
+.wrapper_interior_a {
+    background-color: #ccccff;
+    padding: 10px;
+    padding-bottom: 20px;
+
+    word-wrap: break-word;
+       
+    margin: 5px;
+    margin-bottom: 10px;
+   
+    z-index: 1;
+}
+
+
+
+
+body {
+    background-color: #bbaabb;
+}
+
+br {
+	margin-bottom: 3px;
+}
+
+p {
+    font-size: 16pt;
+    font-family: tahoma;
+}
+
